@@ -2,6 +2,10 @@
 
 ## Basic Commands
 
+### Uploading files to GitHub 
+
+
+
 1. git init   (to initialize local git repository )
 2. git add <file_name>.<file_type/format>  (to add file to index/staging area )
    - git add .   (to add every file in directory)
